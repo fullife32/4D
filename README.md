@@ -27,4 +27,4 @@ C'est un outil pour trouver la valeur là où la draft se trompe : **dans les to
 
 ---
 
-🎬 **Démo vidéo** : _lien à venir_
+🎬 **Démo vidéo** : https://youtu.be/kbhvKlRfAG4
